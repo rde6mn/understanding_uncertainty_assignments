@@ -1,6 +1,6 @@
-# understanding_uncertainty_assignments
-Assignments:
+# Understanding Uncertainty Assignments
 
-Assignment 1: 
-Assignment 2: 
-Assignment 3: 
+
+Assignment 1: 9/5 \n
+Assignment 2: 9/12-9/14 \n 
+Assignment 3: 9/21
