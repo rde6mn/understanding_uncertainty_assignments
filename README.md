@@ -6,3 +6,4 @@
 - Assignment 3: 9/23
 - Assignment 4: 9/30
 - Assignment 5: 10/21
+- Project 1: 11/13
